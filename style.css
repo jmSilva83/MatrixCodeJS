@@ -1,0 +1,16 @@
+/* Estilos generales del cuerpo */
+body {
+    display: flex;
+    margin: 0; /* Sin márgenes */
+    padding: 0; /* Sin relleno */
+    height: 100vh; /* Altura del 100% de la ventana visible */
+    width: 100vw; /* Ancho del 100% de la ventana visible */
+}
+
+/* Estilos para el canvas (#canv) */
+#canv {
+    /* Otros estilos... */
+    margin: 0; /* Sin márgenes */
+    padding: 0; /* Sin relleno */
+    display: block; /* Asegúrate de que el canvas sea un bloque */
+}
