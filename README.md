@@ -7,9 +7,7 @@ Está desarrollada con JavaScript moderno y un enfoque minimalista para lograr u
 
 ## 🚀 Demo en Vivo
 
-<a href="https://matrix-code-js-jms83.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000?style=for-the-badge&logo=vercel" alt="Deploy en Vercel"/>
-</a>
+[![Deploy en Vercel](https://img.shields.io/badge/Demo%20App-Click%20Aqu%C3%AD-green?style=for-the-badge)](https://matrix-code-js-jms83.vercel.app/)
 
 
 ---
