@@ -3,7 +3,7 @@ MatrixCodeJS
 
 ###
 Demo en Vivo
-[🔗 Ver MatrixCodeJS funcionando](#) (https://matrix-code-js-jms83.vercel.app/)
+[🔗 Accede a MatrixCodeJS aquí] (https://matrix-code-js-jms83.vercel.app/)
 
 ###
 Tecnologías utilizadas
