@@ -1,9 +1,26 @@
-MatrixCodeJS
-**MatrixCodeJS** recrea la icónica lluvia de caracteres verdes de **Matrix**, usando solo **JavaScript**, **HTML5 Canvas** y **CSS**. Ideal para backgrounds animados, proyectos creativos o simplemente para lucirte en tu portfolio.
+# MatrixCodeJS
 
-###
-Demo en Vivo
-[![Deploy en Vercel](https://img.shields.io/badge/Deploy-Vercel-000?style=for-the-badge&logo=vercel)](https://matrix-code-js-jms83.vercel.app/)
+MatrixCodeJS es una aplicación web que simula la icónica "lluvia de caracteres" de *Matrix* en tu navegador.  
+Está desarrollada con JavaScript moderno y un enfoque minimalista para lograr una animación fluida, ligera y elegante.
+
+---
+
+## 🚀 Demo en Vivo
+
+[🔗 Accede a MatrixCodeJS aquí](https://matrix-code-js-jms83.vercel.app/)
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**  
+- **Vite** para bundling y desarrollo ágil  
+- **Vercel** para despliegue en producción
+
+---
+
 
 
 ###
